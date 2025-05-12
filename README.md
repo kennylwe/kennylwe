@@ -1,9 +1,9 @@
 ## ✨Welcome!✨
 ------------------------------------------------------------
 
- - i'm Kenny! A '27 Student at LCHS 
+ - i'm Kenny, A '27 Student at LCHS 
  - I like reading, computers, and java 
- - Vim user, game dev(?), probably going to switch to linux 
+ - Vim user, game dev(?), probably going to switch to linux
  - [insert personal website here for later lol]
 
 <!--
