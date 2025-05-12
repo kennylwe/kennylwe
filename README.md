@@ -4,7 +4,7 @@
  - i'm Kenny! A '27 Student at LCHS
  - I like reading, computers, and java
  - Vim user, game dev(?), i wanna use linux
- - <insert website here for later lol>
+ - [insert website here for later lol]
 
 <!--
 **kennylwe/kennylwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
