@@ -15,19 +15,15 @@ on:
     branches:
     - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
+      #Generates the name of file
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         id: snake-gif
         with:
