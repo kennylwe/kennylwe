@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="snek eat conts" src=".github/workflows/main.yml" />
+  <img src="https://github.com/kennylwe/kennylwe/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
