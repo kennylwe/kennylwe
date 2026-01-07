@@ -11,10 +11,15 @@
 
 2026 Goals:
 ☐ Create a video game
+<br/>
 ☐ Finish up LCHS website for C3
+<br/>
 ☐ Participate in a hackathon with LC iTeam
+<br/>
 ☐ Do something cool with LC iTeam
+<br/>
 ☐ Switch to NeoVim from Vim and create a config
+<br/>
 ☐ Create a YouTube Channel and post at least 3 videos
 
 
