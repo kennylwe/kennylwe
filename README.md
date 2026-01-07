@@ -10,6 +10,7 @@
  - Send me game recommendations!
 
 2026 Goals:
+<br/>
 ☐ Create a video game
 <br/>
 ☐ Finish up LCHS website for C3
